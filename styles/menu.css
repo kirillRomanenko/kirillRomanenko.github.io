@@ -1,0 +1,84 @@
+.menu-avatar {
+    max-width: 44px;
+    max-height: 44px;
+    position: absolute;
+    margin-left: 215px;
+    margin-top: 41px;
+
+}
+.menu-author {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    position: absolute;
+    margin-left: 285px;
+    margin-top: 49px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+
+}
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+.menu a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #333333;
+    font-weight: normal;
+    text-decoration: none;
+}
+.menu a:hover {
+    text-decoration: none;
+    color: #8D8888;
+}
+.menu li {
+    display: inline;
+}
+/* .menu li:hover {
+    position: relative;
+} */
+.active {
+    position: relative;
+}
+.active:before {
+    content: "";
+    position: absolute;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    width: 16px;
+    border-bottom: 2px solid #EF5C3A;
+}
+/* .menu li:hover::before {
+    content: "";
+    position: absolute;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    width: 16px;
+    border-bottom: 2px solid #EF5C3A;
+} */
+.menu {
+
+    position: absolute;
+    max-width: 426px;
+    max-height: 24px;
+    margin-top: 52px;
+    margin-left: 859px;
+    word-spacing: 50px;
+    letter-spacing: .2px;
+}
+.search {
+    max-width: 23px;
+    max-height: 23px;
+    position: absolute;
+    margin-left: 1362px;
+    margin-top: 52.22px;
+}
+.menu-slider hr {
+    max-width: 1170px;
+    margin-top: 124px;
+    margin-left: 215px;
+}

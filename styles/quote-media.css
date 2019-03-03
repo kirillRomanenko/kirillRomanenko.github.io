@@ -1,0 +1,32 @@
+@media screen and (max-width: 1200px) {
+    .quote__image {
+        margin-left: 50%;
+    }
+    .quote__text {
+        margin-left: 13%;
+    }
+}
+@media screen and (max-width: 992px) {
+    .quote__text {
+        margin-left: 5%;
+    }
+}
+@media screen and (max-width: 768px){
+    .quote__text {
+        width: 710px;
+        height: 113px;
+        margin-left: 5%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 600px){
+    .quote {
+        margin-top: 2050px;
+    }
+    .quote__image {
+        margin-left: 47%;
+    }
+    .quote__text {
+        width: 510px;
+        margin-left: 5%;
+    }
+}

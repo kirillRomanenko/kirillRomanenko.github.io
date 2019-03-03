@@ -1,0 +1,43 @@
+@media screen and (max-width: 1200px){
+    .footer {
+        width: 100%;
+    }
+    .footer__copyright {
+        margin-left: 10%;
+    }
+    .footer__menu {
+        margin-left: 65%;
+    }
+
+}
+@media screen and (max-width: 992px){
+    .footer__menu {
+        margin-left: 62%;
+    }
+}
+@media screen and (max-width: 768px){
+    .footer__copyright {
+        margin-left: 5%;
+    }
+    .footer__menu {
+        margin-left: 50%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 600px) {
+    .footer {
+        margin-top: 4452px;
+    }
+    .footer__copyright {
+        margin-top: 120px;
+    }
+    .footer__menu {
+        margin-top: 50px;
+        margin-left: 5%;
+    }
+    /*.footer__instagramm {*/
+        /*display: none;*/
+    /*}*/
+    /*.footer__vk {*/
+        /*display: none;*/
+    /*}*/
+}

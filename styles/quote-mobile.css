@@ -1,0 +1,19 @@
+@media screen and (min-width: 360px)  and (max-width: 575px) {
+    .quote {
+        margin-top: 1550px;
+    }
+    .quote__text {
+        font-size: 18px;
+        text-align: center;
+        line-height: 24px;
+        width: 288px;
+        height: 144px;
+        margin-left: 45px;
+        margin-top: 4120px;
+    }
+}
+@media screen and (width: 411px) {
+    .quote__text {
+        margin-left: 65px;
+    }
+}

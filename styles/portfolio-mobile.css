@@ -1,0 +1,115 @@
+@media screen and (min-width: 360px)  and (max-width: 575px) {
+
+
+    .portfolio__viewModal-page, .portfolio__viewModal-page-title, .portfolio__viewModal-page-description, .portfolio__viewModal-page-date {
+        display: none;
+    }
+    .portfolio__viewModal-page-close {
+        display: none;
+    }
+    .portfolio__title-first {
+        font-size: 14px;
+        margin-left: 35%;
+    }
+    .portfolio__title-second {
+        font-size: 25px;
+        margin-left: 15%;
+    }
+    .portfolio__view-counter {
+        margin-left: 92px;
+        margin-top: 230px;
+        font-size: 12px;
+    }
+    .portfolio__view-works-first {
+        display: none;
+    }
+    .portfolio__view-works-second {
+        display: none;
+    }
+    .portfolio__work-first {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .portfolio__work-second {
+        width: 100%;
+        height: 232px;
+        margin-top: auto;
+        margin-left: auto;
+        left: auto;
+    }
+    .portfolio__work-third {
+        width: 100%;
+        right: auto;
+        height: 400px;
+        margin-left: auto;
+        margin-top: 238px;
+    }
+    .portfolio__work-fourth {
+        width: 100%;
+        height: 232px;
+        margin-left: auto;
+        margin-top: 645px;
+    }
+    .portfolio__work-fifth {
+        width: 100%;
+        height: 400px;
+        margin-left: auto;
+        margin-top: 885px;
+        right: auto;
+    }
+    .portfolio__work-sixth {
+        width: 100%;
+        height: 232px;
+        margin-left: auto;
+        margin-top: 1295px;
+        right: auto;
+    }
+    .portfolio__work-seventh {
+        width: 100%;
+        height: 400px;
+        margin-left: auto;
+        margin-top: 1540px;
+    }
+    .portfolio__work-eighth {
+        width: 100%;
+        height: 232px;
+        margin-left: auto;
+        right: auto;
+        margin-top: 1950px;
+    }
+    .portfolio__work-ninth {
+        width: 100%;
+        height: 232px;
+        margin-left: auto;
+        right: auto;
+        margin-top: 2195px;
+    }
+    .portfolio__work-tenth {
+        width: 100%;
+        height: 400px;
+        margin-left: auto;
+        right: auto;
+        margin-top: 2440px;
+    }
+    .portfolio__button-show-more {
+        width: 290px;
+        margin-left: 35px;
+        margin-right: auto;
+        margin-top: 2850px;
+    }
+}
+@media screen and (width: 411px) {
+    .portfolio__title-first {
+        margin-left: 38%;
+    }
+    .portfolio__title-second {
+        margin-left: 20%;
+    }
+    .portfolio__view-counter {
+        margin-left: 130px;
+    }
+    .portfolio__button-show-more {
+        margin-left: 65px;
+
+    }
+}

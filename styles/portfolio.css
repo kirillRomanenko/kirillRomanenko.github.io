@@ -1,0 +1,193 @@
+.portfolio {
+    max-width: 100%;
+    margin-left: 215px;
+}
+.portfolio__title-first {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: left;
+    position: absolute;
+    margin-left: 523px;
+    margin-top: 132px;
+}
+.portfolio__title-second {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: left;
+    position: absolute;
+    margin-left: 406px;
+    margin-top: 177px;
+    letter-spacing: 1.8px;
+}
+.portfolio__view-counter {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    position: absolute;
+    margin-left: auto;
+    margin-top: 283px;
+    letter-spacing: .4px;
+}
+.portfolio__view-works-first {
+    width: 29px;
+    height: 29px;
+    margin-left: 1092px;
+    margin-top: 279px;
+    position: absolute;
+}
+.portfolio__view-works-first svg:hover rect {
+    fill: black;
+}
+.portfolio__view-works-second svg:hover rect {
+    fill: black;
+}
+.portfolio__view-works-second {
+    width: 29px;
+    height: 29px;
+    margin-left: 1141px;
+    margin-top: 279px;
+    position: absolute;
+}
+.portfolio__work-first {
+    width: 370px;
+    height: 538px;
+    margin-left: auto;
+    margin-top: 355px;
+}
+.portfolio__work-second {
+    width: 370px;
+    height: 270px;
+    margin-left: 30px;
+    margin-top: 355px;
+    position: absolute;
+}
+.portfolio__work-third {
+    width: 370px;
+    height: 433px;
+    margin-left: 430px;
+    margin-top: 355px;
+    position: absolute;
+}
+.portfolio__work-fourth {
+    width: 370px;
+    height: 270px;
+    margin-left: auto;
+    margin-top: 30px;
+    position: absolute;
+}
+.portfolio__work-fifth {
+    width: 370px;
+    height: 433px;
+    margin-left: 30px;
+    margin-top: 655px;
+    position: absolute;
+}
+.portfolio__work-sixth {
+    width: 370px;
+    height: 270px;
+    margin-left: 430px;
+    margin-top: 818px;
+    position: absolute;
+}
+.portfolio__work-seventh {
+    width: 370px;
+    height: 465px;
+    margin-left: auto;
+    margin-top: 330px;
+    position: absolute;
+}
+.portfolio__work-eighth {
+    width: 370px;
+    height: 270px;
+    margin-left: 30px;
+    margin-top: 1118px;
+    position: absolute;
+}
+.portfolio__work-ninth {
+    width: 370px;
+    height: 270px;
+    margin-left: 30px;
+    margin-top: 1418px;
+    position: absolute;
+}
+.portfolio__work-tenth {
+    width: 370px;
+    height: 570px;
+    margin-left: 430px;
+    margin-top: 1118px;
+    position: absolute;
+}
+.portfolio__viewModal-page {
+    width: 350px;
+    height: 181px;
+    background: white;
+    border-top: 3px solid #EF5C3A; /* Линия сверху текста */
+    margin-left: 410px;
+    position: absolute;
+}
+.portfolio__viewModal-page-close {
+    width: 30px;
+    height: 30px;
+    margin-left: 91.5%;
+    position: relative;
+}
+.portfolio__viewModal-page-title {
+    height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    /*position: absolute;*/
+    /*margin-left: 432px;*/
+    margin-top: 0px;
+    margin-left: 22px;
+    position: relative;
+}
+.portfolio__viewModal-page-description {
+    width: 246px;
+    height: 59px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    position: relative;
+    margin-left: 22px;
+    margin-top: 10px;
+    line-height: 20px;
+    letter-spacing: .2px;
+}
+.portfolio__viewModal-page-date {
+    width: 82px;
+    height: 22px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    position: relative;
+    margin-left: 22px;
+    margin-top: 16px;
+    line-height: 22px;
+}
+.portfolio__button-show-more {
+
+    width: 170px;
+    height: 64px;
+    margin-left: 500px;
+    margin-top: 835px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 100;
+    border-radius: 4px 4px 4px 4px;
+    border: 2px solid #C9C9C9;
+    position: absolute;
+    background-color: white;
+}
+.portfolio__button-show-more:hover {
+    border: 2px solid #EF5C3A;
+}
+.portfolio__button-show-more:active {
+    background-color: #EF5C3A;
+    border: 2px solid #EF5C3A;
+    color: #FFFFFF;
+}
+

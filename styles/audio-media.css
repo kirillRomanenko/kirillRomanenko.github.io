@@ -1,0 +1,78 @@
+@media screen and (max-width: 1200px) {
+    .audio-playlist {
+        width: 100%;
+        height: 800px;
+        margin-top: 3200px;
+    }
+    .audio-playlist__title {
+        margin-left: 100px;
+    }
+    .audio-playlist__vk {
+        margin-left: 800px;
+    }
+    .audio-playlist__youtube {
+        margin-left: 880px;
+    }
+    .audio-playlist__playlist {
+        margin-left: 100px;
+    }
+    .audio-playlist__image {
+        width: 270px;
+        height: 360px;
+        margin-left: 850px;
+        margin-top: 250px;
+    }
+}
+@media screen and (max-width: 992px){
+    .audio-playlist__playlist {
+        width: 500px;
+    }
+    .audio-playlist__image {
+        margin-left: 650px;
+    }
+}
+@media screen and (max-width: 768px){
+    .audio-playlist__title {
+        margin-left: 30px;
+    }
+    .audio-playlist__vk {
+        margin-left: 650px;
+    }
+    .audio-playlist__youtube {
+        margin-left: 690px;
+    }
+    .audio-playlist__playlist {
+        width: 400px;
+        margin-left: 30px;
+    }
+    .audio-playlist__image {
+        width: 270px;
+        height: 360px;
+        margin-left: 450px;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 600px){
+    .audio-playlist {
+        margin-top: 5200px;
+    }
+    .audio-playlist__title {
+        margin-left: 30px;
+    }
+    .audio-playlist__vk {
+        margin-top: 171px;
+        margin-left: 240px;
+    }
+    .audio-playlist__youtube {
+        margin-top: 171px;
+        margin-left: 290px;
+    }
+    .audio-playlist__playlist {
+        width: 300px;
+        margin-left: 30px;
+    }
+    .audio-playlist__image {
+        width: 170px;
+        height: 260px;
+        margin-left: 350px;
+    }
+}

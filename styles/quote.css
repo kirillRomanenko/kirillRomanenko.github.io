@@ -1,0 +1,24 @@
+.quote {
+    margin-top: 40px;
+}
+.quote__image {
+    width: 35px;
+    height: 35px;
+    margin-left: 782.5px;
+    margin-top: 4054px;
+    position: absolute;
+}
+.quote__text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    line-height: 40px;
+    width: 910px;
+    height: 113px;
+    margin-left: 338px;
+    margin-top: 4136px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    position: absolute;
+}

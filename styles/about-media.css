@@ -1,0 +1,200 @@
+@media screen and (max-width: 1200px){
+    .about__title-first {
+        margin-left: 50%;
+    }
+    .about__title-second {
+        margin-left: 43%;
+    }
+    .about__quote-first {
+        margin-left: 5%;
+    }
+    .about__quote-first-text {
+        margin-left: 5%;
+    }
+    .about__image {
+        margin-left: 5%;
+    }
+    .about__image-close {
+        margin-left: 41.5%;
+    }
+    .about__description-first {
+        margin-left: 48%;
+    }
+    .about__description-second {
+        margin-left: 48%;
+    }
+    .about__description-third {
+        margin-left: 48%;
+    }
+    .about__video {
+        margin-left: 1%;
+    }
+    .about__button-show-more {
+        margin-left: 42%;
+    }
+}
+@media screen and (max-width: 992px){
+    .about__quote-first {
+        margin-left: 1%;
+    }
+    .about__quote-first-text {
+        width: 40%;
+        height: 80%;
+        font-size: 20px;
+        margin-left: 1%;
+    }
+    .about__image {
+        width: 370px;
+        height: 522px;
+        margin-left: 1%;
+    }
+    .about__image-close {
+        margin-left: 350px;
+        margin-top: 1930px;
+    }
+    .about__description-first {
+        font-size: 16px;
+        margin-top: 1290px;
+        margin-left: 410px;
+    }
+    .about__description-second {
+        font-size: 16px;
+        margin-top: 1458px;
+        margin-left: 410px;
+    }
+    .about__description-third {
+        font-size: 16px;
+        margin-top: 1907px;
+        margin-left: 410px;
+    }
+    .about__video {
+        margin-left: 10%;
+        width: 750px;
+        height: 605px;
+    }
+    .about__button-show-more {
+        margin-top: 2700px;
+        margin-left: 40%;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .about__title-first {
+        margin-left: 45%;
+    }
+    .about__title-second {
+        margin-left: 35%;
+    }
+    .about__quote-first {
+        margin-left: 1%;
+    }
+    .about__quote-first-text {
+        width: 38%;
+        height: 80%;
+        font-size: 19px;
+        margin-left: 1%;
+    }
+    .about__image {
+        width: 270px;
+        height: 422px;
+        margin-left: 1%;
+    }
+    .about__image-close {
+        margin-left: 248px;
+        margin-top: 1830px;
+    }
+    .about__description-first {
+        width: 410px;
+        height: 170px;
+        font-size: 15px;
+        margin-top: 1290px;
+        margin-left: 315px;
+    }
+    .about__description-second {
+        width: 410px;
+        font-size: 15px;
+        margin-top: 1490px;
+        margin-left: 315px;
+    }
+    .about__description-third {
+        width: 700px;
+        height: 144px;
+        font-size: 15px;
+        margin-top: 1960px;
+        margin-left: 1%;
+    }
+    .about__video {
+        margin-left: 5%;
+        width: 650px;
+        height: 505px;
+    }
+    .about__button-show-more {
+        margin-top: 2680px;
+        margin-left: 35%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 600px){
+    body {
+        max-width: 100%;
+        max-height: max-content;
+    }
+    .about__title-first {
+        margin-top: 3220px;
+        margin-left: 45%;
+    }
+    .about__title-second {
+        margin-top: 3270px;
+        margin-left: 33%;
+    }
+    .about__quote-first {
+        margin-top: 3350px;
+        margin-left: 1%;
+    }
+    .about__quote-first-text {
+        margin-top: 3400px;
+        width: 58%;
+        height: 20%;
+        font-size: 19px;
+        margin-left: 1%;
+    }
+    .about__image {
+        margin-top: 3600px;
+        width: 270px;
+        height: 422px;
+        margin-left: 1%;
+    }
+    .about__image-close {
+        margin-top: 3992px;
+        margin-left: 246px;
+    }
+    .about__description-first {
+        width: 210px;
+        height: 370px;
+        font-size: 15px;
+        margin-top: 3640px;
+        margin-left: 310px;
+    }
+    .about__description-second {
+        width: 550px;
+        font-size: 15px;
+        margin-top: 4100px;
+        margin-left: 1%;
+    }
+    .about__description-third {
+        width: 550px;
+        height: 144px;
+        font-size: 15px;
+        margin-top: 4500px;
+        margin-left: 1%;
+    }
+    .about__video {
+        margin-left: auto;
+        margin-top: 4700px;
+        width: 100%;
+        height: 305px;
+    }
+    .about__button-show-more {
+        margin-top: 5070px;
+        margin-left: 35%;
+    }
+}

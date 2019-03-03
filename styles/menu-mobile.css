@@ -1,0 +1,23 @@
+@media screen and (min-width: 360px)  and (max-width: 575px) {
+    .menu-avatar {
+        display: none;
+    }
+    .menu {
+        display: none;
+    }
+    .menu-author {
+        display: none;
+    }
+    .search {
+        margin-top: 20px;
+        margin-left: 15px;
+    }
+    .menu-slider hr {
+        margin-top: 45px;
+    }
+}
+@media screen and (width: 411px) {
+    .search {
+        margin-left: 45px;
+    }
+}

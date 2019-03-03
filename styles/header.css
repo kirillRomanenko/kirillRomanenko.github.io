@@ -1,0 +1,262 @@
+body  {
+    margin: auto;
+    max-width: 1600px;
+    max-height: 1059px;
+    width: 100%;
+    height: 100%;
+    overflow-x:hidden;
+}
+
+.header {
+    max-width: 1600px;
+    height: 1059px;
+    position: relative;
+    background: url("../assets/img/Mask Group 29.png") center no-repeat;
+    background-size: cover;
+}
+.header__avatar-mobile {
+    position: absolute;
+    display: none;
+}
+
+.contacts {
+    position: absolute;
+    width: 570px;
+    height: 140px;
+    margin-left: 215px;
+    margin-right: 815px;
+    margin-bottom: 919px;
+    margin-top: 0px;
+    background-color: #EF5C3A;
+}
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Open+Sans');
+}
+@font-face {
+    font-family: 'Roboto Slab', serif;
+    src: url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+}
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Raleway');
+}
+.contacts__address {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-align: left;
+    position: absolute;
+    max-width: 146px;
+    max-height: 44px;
+    margin-left: 100px;
+    margin-top: 41.5px;
+    margin-bottom: 48px;
+    letter-spacing: .46px;
+    word-spacing: .2px;
+}
+.line {
+    margin-bottom: 18.5px;
+    line-height: 22%;
+}
+.contacts__phone-email {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-align: left;
+    position: absolute;
+    /*max-width: 176px;*/
+    max-height: 44px;
+    margin-top: 41.5px;
+    margin-bottom: 48px;
+    margin-left: 301px;
+    word-spacing: .2px;
+    letter-spacing: .5px;
+
+}
+
+.button-play {
+    width: 110px;
+    height: 110px;
+    margin-left: 860px;
+    margin-top: 475px;
+    margin-right: 630px;
+    margin-bottom: 474px;
+}
+
+.header__current-page {
+    font-family: 'Roboto Slab', serif;
+    font-size: 52px;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-align: left;
+    position: absolute;
+    max-width: 54px;
+    /*max-height: 68px;*/
+    margin-left: 1288px;
+    margin-top: 38px;
+    margin-right: 260px;
+    margin-bottom: 958px;
+}
+
+.header__summary-pages {
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    max-width: 37px;
+    max-height: 26px;
+    margin-right: 215px;
+    margin-top: 45px;
+    margin-left: 1348px;
+    letter-spacing: 1.5px;
+}
+
+.next-story {
+    position: absolute;
+    max-width: 179.31pt;
+    max-height: 21pt;
+    margin-left: 315px;
+    margin-top: 300px;
+    margin-bottom: 737px;
+
+}
+
+.title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 67px;
+    color: #FFFFFF;
+    font-weight: 500;
+    text-align: left;
+    position: absolute;
+    width: 420px;
+    height: 322px;
+    margin-top: 370px;
+    margin-left: 315px;
+    margin-right: 882px;
+
+}
+.title__string-number-first {
+    margin-top: 2px;
+    letter-spacing: 4.5px;
+    line-height: 80px;
+}
+.title__string-number-second {
+    margin-left: 4px;
+    letter-spacing: 5.8px;
+    text-decoration: underline;
+
+    line-height: 83px;
+}
+.title__string-number-third {
+    letter-spacing: 5.8px;
+    text-decoration: underline;
+    line-height: 80px;
+}
+.title__string-number-fourth {
+    letter-spacing: 7px;
+    line-height: 79px;
+}
+.title__description-for-title {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    width: 348px;
+    height: 84px;
+    margin-top: 44px;
+    line-height: 30px;
+    letter-spacing: 1.05px;
+    word-spacing: .4px;
+}
+.header__follow-me {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    width: 86px;
+    height: 22px;
+    margin-top: 978px;
+    margin-left: 215px;
+    letter-spacing: 1px;
+}
+.header__line hr {
+    width: 80px;
+    height: 0.1px;
+    background-color: #FFFFFF;
+    position: absolute;
+    opacity: .5;
+    margin-top: 986px;
+    margin-left: 316px;
+
+}
+.header__instagramm {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    margin-left: 416px;
+    margin-top: 975px;
+}
+.header__instagramm svg:hover path {
+    fill: #EF5C3A;
+}
+.header__vk {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    margin-left: 458px;
+    margin-top: 975px;
+}
+.header__vk svg:hover path {
+    fill: #EF5C3A;
+}
+.author__name {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: 600;
+    text-align: left;
+    position: absolute;
+    margin-top: 948px;
+    margin-left: 1107px;
+    word-spacing: 5px;
+}
+.author__contact {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: normal;
+    text-align: left;
+    position: absolute;
+    margin-top: 970px;
+    margin-left: 1107px;
+    letter-spacing: 1px;
+}
+.author__avatar {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin-left: 1305px;
+    margin-top: 928px;
+}
+.header__button-down {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    margin-left: 791px;
+    margin-top: 977px;
+}
+.header__menu-mobile {
+    display: none;
+}
+.header__author-mobile {
+    display: none;
+}
