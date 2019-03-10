@@ -16,7 +16,7 @@
         margin-left: 13%;
     }
 }
-@media screen and (max-width:992px){
+@media screen and (max-width:1200px){
     .menu-avatar {
         margin-left: 9%;
     }
@@ -34,7 +34,7 @@
         margin-left: 10%;
     }
 }
-@media screen and (max-width:768px){
+@media screen and (max-width:950px){
     .menu-avatar {
         margin-left: 3%;
     }
@@ -52,7 +52,7 @@
         margin-left: 10%;
     }
 }
-@media screen and (min-width: 576px) and (max-width: 600px){
+@media screen and (min-width: 576px) and (max-width: 740px){
     .menu-avatar {
         margin-left: 3%;
     }

@@ -187,66 +187,66 @@
         margin-left: 6%;
     }
     .portfolio__work-first {
-        width: 210px;
+        width: 30%;
         height: 368px;
         margin-left: 3%;
     }
     .portfolio__work-second {
-        width: 280px;
+        width: 30%;
         height: 180px;
-        margin-left: 16px;
+        margin-left: 2%;
     }
     .portfolio__work-third {
-        width: 210px;
+        width: 30%;
         height: 368px;
-        margin-left: 316px;
+        margin-left: 35%;
     }
     .portfolio__work-fourth {
-        width: 210px;
+        width: 30%;
         height: 110px;
         margin-left: 3%;
     }
     .portfolio__work-fifth {
-        width: 280px;
+        width: 30%;
         height: 368px;
         margin-top: 550px;
-        margin-left: 18px;
+        margin-left: 2%;
     }
     .portfolio__work-sixth {
-        width: 210px;
+        width: 30%;
         height: 110px;
-        margin-left: 320px;
+        margin-left: 35%;
         margin-top: 760px;
     }
     .portfolio__work-seventh {
-        width: 210px;
+        width: 30%;
         height: 368px;
         margin-top: 205px;
         margin-left: 3%;
     }
     .portfolio__work-eighth {
-        width: 280px;
+        width: 30%;
         height: 180px;
         margin-top: 930px;
-        margin-left: 18px;
+        margin-left: 2%;
     }
     .portfolio__work-ninth {
-        width: 280px;
+        width: 30%;
         height: 180px;
-        margin-left: 18px;
+        margin-left: 2%;
         margin-top: 1120px;
     }
     .portfolio__work-tenth {
-        width: 210px;
+        width: 30%;
         height: 368px;
-        margin-left: 320px;
+        margin-left: 35%;
         margin-top: 930px;
     }
     .portfolio__view-works-first {
-        margin-left: 75%;
+        margin-left: 85%;
     }
     .portfolio__view-works-second {
-        margin-left: 80%;
+        margin-left: 90%;
     }
     .portfolio__button-show-more {
         margin-top: 635px;
