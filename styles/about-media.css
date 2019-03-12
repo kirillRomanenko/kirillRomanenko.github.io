@@ -1,4 +1,4 @@
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1400px){
     .about__title-first {
         margin-left: 50%;
     }
@@ -6,25 +6,31 @@
         margin-left: 43%;
     }
     .about__quote-first {
-        margin-left: 5%;
+        margin-left: 1%;
     }
     .about__quote-first-text {
-        margin-left: 5%;
+        margin-left: 1%;
+        width: 40%;
     }
     .about__image {
-        margin-left: 5%;
+        margin-left: 1%;
+        max-width: 40%;
     }
     .about__image-close {
-        margin-left: 41.5%;
+        margin-left: 33.7%;
+        max-width: 40%;
     }
     .about__description-first {
-        margin-left: 48%;
+        margin-left: 45%;
+        width: 50%;
     }
     .about__description-second {
-        margin-left: 48%;
+        margin-left: 45%;
+        width: 50%;
     }
     .about__description-third {
-        margin-left: 48%;
+        margin-left: 45%;
+        width: 50%;
     }
     .about__video {
         margin-left: 1%;
@@ -33,12 +39,12 @@
         margin-left: 42%;
     }
 }
-@media screen and (max-width: 992px){
+@media screen and (max-width: 1200px){
     .about__quote-first {
         margin-left: 1%;
     }
     .about__quote-first-text {
-        width: 40%;
+        width: 30%;
         height: 80%;
         font-size: 20px;
         margin-left: 1%;
@@ -54,8 +60,8 @@
     }
     .about__description-first {
         font-size: 16px;
-        margin-top: 1290px;
-        margin-left: 410px;
+        margin-left: 36%;
+        width: 50%;
     }
     .about__description-second {
         font-size: 16px;
@@ -78,7 +84,7 @@
     }
 
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 982px) {
     .about__title-first {
         margin-left: 45%;
     }
@@ -89,9 +95,9 @@
         margin-left: 1%;
     }
     .about__quote-first-text {
-        width: 38%;
+        max-width: 35%;
         height: 80%;
-        font-size: 19px;
+        font-size: 15px;
         margin-left: 1%;
     }
     .about__image {
@@ -108,13 +114,13 @@
         height: 170px;
         font-size: 15px;
         margin-top: 1290px;
-        margin-left: 315px;
+        margin-left: 35%;
     }
     .about__description-second {
         width: 410px;
         font-size: 15px;
         margin-top: 1490px;
-        margin-left: 315px;
+        margin-left: 35%;
     }
     .about__description-third {
         width: 700px;
@@ -152,9 +158,9 @@
     }
     .about__quote-first-text {
         margin-top: 3400px;
-        width: 58%;
+        width: 70%;
         height: 20%;
-        font-size: 19px;
+        font-size: 15px;
         margin-left: 1%;
     }
     .about__image {
@@ -165,7 +171,7 @@
     }
     .about__image-close {
         margin-top: 3992px;
-        margin-left: 246px;
+        margin-left: 215px;
     }
     .about__description-first {
         width: 210px;

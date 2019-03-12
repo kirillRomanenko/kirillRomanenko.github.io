@@ -1,4 +1,4 @@
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1400px){
     .footer {
         width: 100%;
     }
@@ -15,7 +15,7 @@
         margin-left: 62%;
     }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 875px){
     .footer__copyright {
         margin-left: 5%;
     }
