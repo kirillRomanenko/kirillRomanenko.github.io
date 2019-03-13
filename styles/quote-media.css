@@ -1,4 +1,4 @@
-@media screen and (max-width: 1240px) {
+@media screen and (max-width: 1400px) {
     .quote__image {
         margin-left: 50%;
     }
@@ -6,12 +6,17 @@
         margin-left: 13%;
     }
 }
+@media screen and (max-width: 1070px) {
+    .quote__text {
+        margin-left: 10%;
+    }
+}
 @media screen and (max-width: 1033px) {
     .quote__text {
         margin-left: 5%;
     }
 }
-@media screen and (max-width: 950px){
+@media screen and (max-width: 960px){
     .quote__text {
         width: 710px;
         height: 113px;

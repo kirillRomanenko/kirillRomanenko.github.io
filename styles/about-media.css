@@ -33,7 +33,8 @@
         width: 50%;
     }
     .about__video {
-        margin-left: 1%;
+        max-width: 80%;
+        margin-left: 10%;
     }
     .about__button-show-more {
         margin-left: 42%;
@@ -73,11 +74,11 @@
         margin-top: 1907px;
         margin-left: 410px;
     }
-    .about__video {
+    /* .about__video {
         margin-left: 10%;
         width: 750px;
         height: 605px;
-    }
+    } */
     .about__button-show-more {
         margin-top: 2700px;
         margin-left: 40%;
@@ -129,11 +130,11 @@
         margin-top: 1960px;
         margin-left: 1%;
     }
-    .about__video {
-        margin-left: 5%;
+    /* .about__video {
+        margin-right: auto;
         width: 650px;
         height: 505px;
-    }
+    } */
     .about__button-show-more {
         margin-top: 2680px;
         margin-left: 35%;
@@ -194,7 +195,7 @@
         margin-left: 1%;
     }
     .about__video {
-        margin-left: auto;
+        margin-left: 10%;
         margin-top: 4700px;
         width: 100%;
         height: 305px;
