@@ -6,7 +6,7 @@
     font-weight: 600;
     position: absolute;
     margin-left: 768px;
-    margin-top: 1040px;
+    margin-top: 1048px;
 }
  .about__title-second {
      width: 243px;
@@ -16,15 +16,15 @@
      font-weight: 600;
      position: absolute;
      margin-left: 679.5px;
-     margin-top: 1083.5px;
+     margin-top: 1091px;
      letter-spacing: 2px;
      word-spacing: .1px;
  }
  .about__quote-first {
      width: 35px;
      height: 35px;
-     margin-left: 215px;
-     margin-top: 1188.5px;
+     margin-left: 215.3px;
+     margin-top: 1196px;
      position: absolute;
  }
  .about__quote-first-text {
@@ -37,7 +37,7 @@
      letter-spacing: 1.7px;
      word-spacing: .5px;
      margin-left: 215px;
-     margin-top: 1252px;
+     margin-top: 1260px;
      position: absolute;
  }
  .about__description-first {
@@ -47,7 +47,7 @@
      font-size: 18px;
      font-weight: normal;
      margin-left: 815px;
-     margin-top: 1249px;
+     margin-top: 1257px;
      letter-spacing: 1px;
      word-spacing: 1px;
      line-height: 40px;
@@ -60,7 +60,7 @@
      font-size: 18px;
      font-weight: normal;
      margin-left: 815px;
-     margin-top: 1458px;
+     margin-top: 1468px;
      letter-spacing: 1px;
      word-spacing: 1.9px;
      line-height: 40px;
@@ -73,7 +73,7 @@
      font-size: 18px;
      font-weight: normal;
      margin-left: 815px;
-     margin-top: 1907px;
+     margin-top: 1915px;
      letter-spacing: 1px;
      word-spacing: 1.5px;
      line-height: 40px;
@@ -97,7 +97,7 @@
      width: 1170px;
      height: 605px;
      margin-left: 215px;
-     margin-top: 2225px;
+     margin-top: 2255px;
      position: absolute;
  }
  .about__button-show-more {

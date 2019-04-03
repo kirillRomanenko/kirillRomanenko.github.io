@@ -39,7 +39,7 @@ body  {
 }
 @font-face {
     font-family: 'Raleway', sans-serif;
-    src: url('https://fonts.googleapis.com/css?family=Raleway');
+    src: url('https://use.typekit.net/xyy4nui.css');
 }
 .contacts__address {
     font-family: 'Open Sans', sans-serif;
@@ -131,9 +131,10 @@ body  {
     font-size: 67px;
     color: #FFFFFF;
     font-weight: 500;
+    font-style: normal;
     text-align: left;
     position: absolute;
-    width: 420px;
+    width: 820px;
     height: 322px;
     margin-top: 370px;
     margin-left: 315px;
@@ -143,23 +144,24 @@ body  {
 .title__string-number-first {
     margin-top: 2px;
     letter-spacing: 4.5px;
+    word-spacing: 1px;
     line-height: 80px;
 }
 .title__string-number-second {
-    margin-left: 4px;
-    letter-spacing: 5.8px;
+    margin-left: 3px;
+    letter-spacing: 5.6px;
     text-decoration: underline;
 
-    line-height: 83px;
+    line-height: 77px;
 }
 .title__string-number-third {
     letter-spacing: 5.8px;
     text-decoration: underline;
-    line-height: 80px;
+    line-height: 87px;
 }
 .title__string-number-fourth {
-    letter-spacing: 7px;
-    line-height: 79px;
+    letter-spacing: 6.2px;
+    line-height: 72px;
 }
 .title__description-for-title {
     font-family: 'Open Sans', sans-serif;
@@ -170,10 +172,10 @@ body  {
     position: absolute;
     width: 348px;
     height: 84px;
-    margin-top: 44px;
+    margin-top: 50px;
     line-height: 30px;
     letter-spacing: 1.05px;
-    word-spacing: .4px;
+    word-spacing: .3px;
 }
 .header__follow-me {
     font-family: 'Open Sans', sans-serif;

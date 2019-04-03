@@ -55,74 +55,74 @@
     width: 370px;
     height: 538px;
     margin-left: auto;
-    margin-top: 355px;
+    margin-top: 348px;
 }
 .portfolio__work-second {
     width: 370px;
     height: 270px;
     margin-left: 30px;
-    margin-top: 355px;
+    margin-top: 348px;
     position: absolute;
 }
 .portfolio__work-third {
     width: 370px;
     height: 433px;
     margin-left: 430px;
-    margin-top: 355px;
+    margin-top: 348px;
     position: absolute;
 }
 .portfolio__work-fourth {
     width: 370px;
     height: 270px;
     margin-left: auto;
-    margin-top: 30px;
+    margin-top: 25px;
     position: absolute;
 }
 .portfolio__work-fifth {
     width: 370px;
     height: 433px;
     margin-left: 30px;
-    margin-top: 655px;
+    margin-top: 645px;
     position: absolute;
 }
 .portfolio__work-sixth {
     width: 370px;
     height: 270px;
     margin-left: 430px;
-    margin-top: 818px;
+    margin-top: 810px;
     position: absolute;
 }
 .portfolio__work-seventh {
     width: 370px;
     height: 465px;
     margin-left: auto;
-    margin-top: 330px;
+    margin-top: 325px;
     position: absolute;
 }
 .portfolio__work-eighth {
     width: 370px;
     height: 270px;
     margin-left: 30px;
-    margin-top: 1118px;
+    margin-top: 1110px;
     position: absolute;
 }
 .portfolio__work-ninth {
     width: 370px;
     height: 270px;
     margin-left: 30px;
-    margin-top: 1418px;
+    margin-top: 1410px;
     position: absolute;
 }
 .portfolio__work-tenth {
     width: 370px;
     height: 570px;
     margin-left: 430px;
-    margin-top: 1118px;
+    margin-top: 1110px;
     position: absolute;
 }
 .portfolio__viewModal-page {
     width: 350px;
-    height: 181px;
+    height: 175px;
     background: white;
     border-top: 3px solid #EF5C3A; /* Линия сверху текста */
     margin-left: 410px;
@@ -130,7 +130,8 @@
 }
 .portfolio__viewModal-page-close {
     width: 30px;
-    height: 30px;
+    height: 5px;
+    /* margin-top: 5px; */
     margin-left: 91.5%;
     position: relative;
 }
@@ -139,9 +140,7 @@
     font-family: 'Raleway', sans-serif;
     font-size: 20px;
     font-weight: 600;
-    /*position: absolute;*/
-    /*margin-left: 432px;*/
-    margin-top: 0px;
+    margin-top: -10px;
     margin-left: 22px;
     position: relative;
 }
